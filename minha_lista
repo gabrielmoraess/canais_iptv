@@ -159,7 +159,7 @@ http://bldtv.vip:80/samuel/samuel10/170175
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://bit.ly/3kPMAoi" group-title="CANAIS ESPORTES",BAND SPORTS SD
 http://bldtv.vip:80/samuel/samuel10/5038
 
-EXTINF:-1 tvg-id="0" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://bit.ly/3kPMAoi" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD
+EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://bit.ly/3kPMAoi" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD
 http://bldtv.vip:80/samuel/samuel10/5191
 
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD²" tvg-logo="https://bit.ly/3kPMAoi" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD² 
