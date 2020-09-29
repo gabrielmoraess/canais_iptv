@@ -1,0 +1,952 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP DIGITAL
+http://srvcliente.me:80/marileide/marileide/8
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP DIGITAL*
+http://srvcliente.me:80/marileide/marileide/2954
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP HD
+http://srvcliente.me:80/marileide/marileide/47
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP HD*
+http://srvcliente.me:80/marileide/marileide/2955
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP HD+
+http://srvcliente.me:80/marileide/marileide/48
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP HD+
+http://srvcliente.me:80/marileide/marileide/778
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",0 Premiere 1 Clubes DIGITAL
+http://srvcliente.me:80/marileide/marileide/124
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E DIGITAL
+http://srvcliente.me:80/marileide/marileide/257
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3114
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E HD
+http://srvcliente.me:80/marileide/marileide/279
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E HD*
+http://srvcliente.me:80/marileide/marileide/3115
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E HD+
+http://srvcliente.me:80/marileide/marileide/302
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC DIGITAL
+http://srvcliente.me:80/marileide/marileide/258
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3116
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC HD
+http://srvcliente.me:80/marileide/marileide/280
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC HD*
+http://srvcliente.me:80/marileide/marileide/3117
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC HD+
+http://srvcliente.me:80/marileide/marileide/303
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",Animal Planet DIGITAL
+http://srvcliente.me:80/marileide/marileide/334
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",Animal Planet DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3174
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",Animal Planet HD
+http://srvcliente.me:80/marileide/marileide/340
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",Animal Planet HD*
+http://srvcliente.me:80/marileide/marileide/3177
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",Animal Planet HD+
+http://srvcliente.me:80/marileide/marileide/3178
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png",Animal Planet HD+
+http://srvcliente.me:80/marileide/marileide/346
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png",Arte DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3175
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="https://skyassineonline.com.br/img/channels/lg-183-canal-arte-1.png",Arte HD*
+http://srvcliente.me:80/marileide/marileide/3176
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png",AXN DIGITAL
+http://srvcliente.me:80/marileide/marileide/259
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png",AXN DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3118
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png",AXN HD
+http://srvcliente.me:80/marileide/marileide/281
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png",AXN HD*
+http://srvcliente.me:80/marileide/marileide/3119
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png",AXN HD+
+http://srvcliente.me:80/marileide/marileide/304
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png",AXN HD+*
+http://srvcliente.me:80/marileide/marileide/3120
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",Band DIGITAL
+http://srvcliente.me:80/marileide/marileide/57
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png",Band News DIGITAL
+http://srvcliente.me:80/marileide/marileide/351
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://1.bp.blogspot.com/-vq9CkCMbWP0/WRz9xqGvqTI/AAAAAAAA5mY/ocy3WFbS4KYHHdKmphXJ8-txNqi2ovAlwCLcB/w1200-h630-p-k-no-nu/bandnews.png",Band News DIGITAL*
+http://srvcliente.me:80/marileide/marileide/2986
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://1.bp.blogspot.com/-vq9CkCMbWP0/WRz9xqGvqTI/AAAAAAAA5mY/ocy3WFbS4KYHHdKmphXJ8-txNqi2ovAlwCLcB/w1200-h630-p-k-no-nu/bandnews.png",Band News HD*
+http://srvcliente.me:80/marileide/marileide/2987
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",Band SP Digital
+http://srvcliente.me:80/marileide/marileide/121
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",Band SP DIGITAL*
+http://srvcliente.me:80/marileide/marileide/2981
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",Band SP HD
+http://srvcliente.me:80/marileide/marileide/66
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",Band SP HD*
+http://srvcliente.me:80/marileide/marileide/2982
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",Band SP HD+
+http://srvcliente.me:80/marileide/marileide/69
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png",Band SP HD+*
+http://srvcliente.me:80/marileide/marileide/2983
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo-1.png",Band Sports DIGITAL
+http://srvcliente.me:80/marileide/marileide/147
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo-1.png",Band Sports DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3028
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo-1.png",Band Sports HD
+http://srvcliente.me:80/marileide/marileide/163
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo-1.png",Band Sports HD*
+http://srvcliente.me:80/marileide/marileide/3029
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png",BIS DIGITAL
+http://srvcliente.me:80/marileide/marileide/365
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png",BIS DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3193
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png",BIS HD
+http://srvcliente.me:80/marileide/marileide/383
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png",BIS HD*
+http://srvcliente.me:80/marileide/marileide/3194
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",Boomerang DIGITAL
+http://srvcliente.me:80/marileide/marileide/229
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",Boomerang DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3057
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",Boomerang HD*
+http://srvcliente.me:80/marileide/marileide/3058
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png",Canal Sony DIGITAL
+http://srvcliente.me:80/marileide/marileide/260
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png",Canal Sony DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3121
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png",Canal Sony HD
+http://srvcliente.me:80/marileide/marileide/282
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png",Canal Sony HD*
+http://srvcliente.me:80/marileide/marileide/3122
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-Canal_Sony_logo.svg_.png",Canal Sony HD+
+http://srvcliente.me:80/marileide/marileide/305
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",Cartoon Network DIGITAL
+http://srvcliente.me:80/marileide/marileide/230
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",Cartoon Network DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3059
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",Cartoon Network HD
+http://srvcliente.me:80/marileide/marileide/243
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",Cartoon Network HD*
+http://srvcliente.me:80/marileide/marileide/3060
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",Cartoon Network HD+
+http://srvcliente.me:80/marileide/marileide/252
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png",Cartoon Network HD+*
+http://srvcliente.me:80/marileide/marileide/23174
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png",Cinemax DIGITAL
+http://srvcliente.me:80/marileide/marileide/261
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png",Cinemax DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3123
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png",Cinemax HD
+http://srvcliente.me:80/marileide/marileide/283
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png",Cinemax HD*
+http://srvcliente.me:80/marileide/marileide/3124
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png",Cinemax HD+
+http://srvcliente.me:80/marileide/marileide/306
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png",Cinemax HD+*
+http://srvcliente.me:80/marileide/marileide/23175
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png",CNN Brasil Digital
+http://srvcliente.me:80/marileide/marileide/2426
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png",CNN Brasil DIGITAL*
+http://srvcliente.me:80/marileide/marileide/23531
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png",CNN Brasil HD
+http://srvcliente.me:80/marileide/marileide/2427
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png",CNN Brasil HD*
+http://srvcliente.me:80/marileide/marileide/23532
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png",CNN Brasil HD+*
+http://srvcliente.me:80/marileide/marileide/23536
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png",Comedy Central DIGITAL
+http://srvcliente.me:80/marileide/marileide/262
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png",Comedy Central DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3125
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png",Comedy Central HD
+http://srvcliente.me:80/marileide/marileide/284
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png",Comedy Central HD*
+http://srvcliente.me:80/marileide/marileide/3126
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/comedycentral.png",Comedy Central HD+
+http://srvcliente.me:80/marileide/marileide/307
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/cultura.png",Cultura HD*
+http://srvcliente.me:80/marileide/marileide/3009
+#EXTINF:-1 group-title="CANAIS | FULL HD",Cultura HD+*
+http://srvcliente.me:80/marileide/marileide/23147
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/2000px-Logo_of_Curta.svg_.png",Curta DIGITAL
+http://srvcliente.me:80/marileide/marileide/366
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/2000px-Logo_of_Curta.svg_.png",CURTA HD*
+http://srvcliente.me:80/marileide/marileide/3196
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/2000px-Logo_of_Curta.svg_.png",CURTA! DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3195
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",Discovery Channel DIGITAL
+http://srvcliente.me:80/marileide/marileide/316
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",Discovery Channel DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3165
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",Discovery Channel HD
+http://srvcliente.me:80/marileide/marileide/320
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",Discovery Channel HD*
+http://srvcliente.me:80/marileide/marileide/3166
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",Discovery Channel HD+
+http://srvcliente.me:80/marileide/marileide/327
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",Discovery Channel HD+*
+http://srvcliente.me:80/marileide/marileide/23149
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",Discovery Channel HD+*
+http://srvcliente.me:80/marileide/marileide/23152
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://exorbeo.com/wp-content/uploads/blogger/-75Ug_YWwX-M/T6b5af5m9DI/AAAAAAAAEzQ/Yzpl1PNuWHc/s1600/discovery%2Bcivilization%2Bsky.png",Discovery Civilization HD*
+http://srvcliente.me:80/marileide/marileide/3169
+#EXTINF:-1 group-title="CANAIS | FULL HD",Discovery Civilization HD+*
+http://srvcliente.me:80/marileide/marileide/23150
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png",Discovery H&H DIGITAL
+http://srvcliente.me:80/marileide/marileide/317
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png",Discovery H&H DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3163
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png",Discovery H&H HD
+http://srvcliente.me:80/marileide/marileide/321
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png",Discovery H&H HD*
+http://srvcliente.me:80/marileide/marileide/3164
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0040_discovery_hh.png",Discovery H&H HD+
+http://srvcliente.me:80/marileide/marileide/328
+#EXTINF:-1 group-title="CANAIS | FULL HD",Discovery HeH HD+*
+http://srvcliente.me:80/marileide/marileide/23153
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png",Discovery Investigation DIGITAL
+http://srvcliente.me:80/marileide/marileide/319
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png",Discovery Investigation DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3167
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png",Discovery Investigation HD
+http://srvcliente.me:80/marileide/marileide/326
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png",Discovery Investigation HD*
+http://srvcliente.me:80/marileide/marileide/3168
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png",Discovery Investigation HD+
+http://srvcliente.me:80/marileide/marileide/333
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png",Discovery Science DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3161
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png",Discovery Science HD
+http://srvcliente.me:80/marileide/marileide/322
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png",Discovery Science HD*
+http://srvcliente.me:80/marileide/marileide/3162
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png",Discovery Science HD+
+http://srvcliente.me:80/marileide/marileide/329
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png",Discovery Theater HD
+http://srvcliente.me:80/marileide/marileide/323
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png",Discovery Theater HD*
+http://srvcliente.me:80/marileide/marileide/3160
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png",Discovery Theater HD+
+http://srvcliente.me:80/marileide/marileide/330
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png",Discovery Theater HD+*
+http://srvcliente.me:80/marileide/marileide/23151
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png",Discovery World DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3157
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png",Discovery World HD
+http://srvcliente.me:80/marileide/marileide/325
+#EXTINF:-1 group-title="CANAIS | DISCOVERY" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png",Discovery World HD*
+http://srvcliente.me:80/marileide/marileide/3158
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png",Discovery World HD+
+http://srvcliente.me:80/marileide/marileide/332
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png",Disney Channel DIGITAL
+http://srvcliente.me:80/marileide/marileide/234
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png",Disney Channel DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3070
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png",Disney channel HD
+http://srvcliente.me:80/marileide/marileide/246
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png",Disney Channel HD*
+http://srvcliente.me:80/marileide/marileide/3071
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png",Disney Channel HD+
+http://srvcliente.me:80/marileide/marileide/253
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png",Disney Channel HD+*
+http://srvcliente.me:80/marileide/marileide/23154
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png",Disney XD DIGITAL
+http://srvcliente.me:80/marileide/marileide/236
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png",Disney XD DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3066
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png",Disney XD HD*
+http://srvcliente.me:80/marileide/marileide/3067
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png",E! DIGITAL
+http://srvcliente.me:80/marileide/marileide/335
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/06/E.png",E! DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3197
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png",E! HD
+http://srvcliente.me:80/marileide/marileide/341
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/06/E.png",E! HD*
+http://srvcliente.me:80/marileide/marileide/3198
+#EXTINF:-1 group-title="CANAIS | ESPN E DAZN" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN 1 DIGITAL
+http://srvcliente.me:80/marileide/marileide/149
+#EXTINF:-1 group-title="CANAIS | ESPN E DAZN" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN 1 HD
+http://srvcliente.me:80/marileide/marileide/172
+#EXTINF:-1 group-title="CANAIS | ESPN E DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN 2 DIGITAL
+http://srvcliente.me:80/marileide/marileide/150
+#EXTINF:-1 group-title="CANAIS | ESPN E DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN 2 HD
+http://srvcliente.me:80/marileide/marileide/170
+#EXTINF:-1 group-title="CANAIS | ESPN E DAZN" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN Brasil DIGITAL
+http://srvcliente.me:80/marileide/marileide/151
+#EXTINF:-1 group-title="CANAIS | ESPN E DAZN" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN Brasil HD
+http://srvcliente.me:80/marileide/marileide/171
+#EXTINF:-1 group-title="CANAIS | ESPN E DAZN" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN Extra HD
+http://srvcliente.me:80/marileide/marileide/173
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX-TV-logo.png",Fox DIGITAL
+http://srvcliente.me:80/marileide/marileide/263
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX-TV-logo.png",Fox DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3127
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX-TV-logo.png",Fox HD
+http://srvcliente.me:80/marileide/marileide/285
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX-TV-logo.png",Fox HD*
+http://srvcliente.me:80/marileide/marileide/3128
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX-TV-logo.png",Fox HD+
+http://srvcliente.me:80/marileide/marileide/308
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png",Fox Life DIGITAL
+http://srvcliente.me:80/marileide/marileide/264
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png",Fox Life HD
+http://srvcliente.me:80/marileide/marileide/286
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_Life_pt_logo.png",Fox Life HD*
+http://srvcliente.me:80/marileide/marileide/3129
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png",Fox Premium 1 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3130
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png",Fox Premium 1 HD
+http://srvcliente.me:80/marileide/marileide/287
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png",Fox Premium 1 HD*
+http://srvcliente.me:80/marileide/marileide/3131
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png",Fox Premium 2 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3132
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png",Fox Premium 2 HD
+http://srvcliente.me:80/marileide/marileide/288
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png",Fox Premium 2 HD*
+http://srvcliente.me:80/marileide/marileide/3133
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png",Fox Sports 1 DIGITAL
+http://srvcliente.me:80/marileide/marileide/153
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png",Fox Sports 1 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3042
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png",Fox Sports 1 HD
+http://srvcliente.me:80/marileide/marileide/175
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png",Fox Sports 1 HD*
+http://srvcliente.me:80/marileide/marileide/3043
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png",Fox Sports 1 HD+
+http://srvcliente.me:80/marileide/marileide/185
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png",Fox Sports 1 HD+*
+http://srvcliente.me:80/marileide/marileide/23157
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png",Fox Sports 2 DIGITAL
+http://srvcliente.me:80/marileide/marileide/154
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png",Fox Sports 2 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3044
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png",Fox Sports 2 HD
+http://srvcliente.me:80/marileide/marileide/174
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png",Fox Sports 2 HD*
+http://srvcliente.me:80/marileide/marileide/3045
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png",Fox Sports 2 HD+
+http://srvcliente.me:80/marileide/marileide/184
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png",Fox Sports 2 HD+*
+http://srvcliente.me:80/marileide/marileide/23156
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Futura_1.png",Futura DIGITAL
+http://srvcliente.me:80/marileide/marileide/116
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Futura_1.png",Futura HD*
+http://srvcliente.me:80/marileide/marileide/3000
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png",FX DIGITAL
+http://srvcliente.me:80/marileide/marileide/265
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png",FX DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3134
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png",FX HD
+http://srvcliente.me:80/marileide/marileide/289
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/731px-FX-logo.svg_.png",FX HD*
+http://srvcliente.me:80/marileide/marileide/3135
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png",Globo News DIGITAL
+http://srvcliente.me:80/marileide/marileide/354
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png",Globo News DIGITAL*
+http://srvcliente.me:80/marileide/marileide/2966
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png",Globo News HD
+http://srvcliente.me:80/marileide/marileide/357
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png",Globo News HD*
+http://srvcliente.me:80/marileide/marileide/2967
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-da-globo-news-1469983466154_615x300.png",Globo News HD+
+http://srvcliente.me:80/marileide/marileide/360
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png",GNT DIGITAL
+http://srvcliente.me:80/marileide/marileide/370
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png",GNT DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3201
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png",GNT HD
+http://srvcliente.me:80/marileide/marileide/386
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png",GNT HD*
+http://srvcliente.me:80/marileide/marileide/3202
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png",GNT HD+
+http://srvcliente.me:80/marileide/marileide/395
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO 1 DIGITAL
+http://srvcliente.me:80/marileide/marileide/208
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO 1 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3094
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO 1 HD
+http://srvcliente.me:80/marileide/marileide/215
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO 1 HD*
+http://srvcliente.me:80/marileide/marileide/3095
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO 1 HD+
+http://srvcliente.me:80/marileide/marileide/220
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO 1 HD+*
+http://srvcliente.me:80/marileide/marileide/3096
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png",HBO 1 HD¹*
+http://srvcliente.me:80/marileide/marileide/3104
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png",HBO 2 DIGITAL
+http://srvcliente.me:80/marileide/marileide/212
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png",HBO 2 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3097
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png",HBO 2 HD
+http://srvcliente.me:80/marileide/marileide/213
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png",HBO 2 HD*
+http://srvcliente.me:80/marileide/marileide/3098
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png",HBO 2 HD+
+http://srvcliente.me:80/marileide/marileide/218
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png",HBO 2 HD+*
+http://srvcliente.me:80/marileide/marileide/3099
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO Family DIGITAL
+http://srvcliente.me:80/marileide/marileide/209
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO Family DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3100
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO Family HD
+http://srvcliente.me:80/marileide/marileide/214
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO Family HD*
+http://srvcliente.me:80/marileide/marileide/3101
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO Family HD+
+http://srvcliente.me:80/marileide/marileide/219
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO Family HD+*
+http://srvcliente.me:80/marileide/marileide/23159
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/400px-HBO_Mundi.svg.png",HBO Mundi DIGITAL
+http://srvcliente.me:80/marileide/marileide/221
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/400px-HBO_Mundi.svg.png",HBO Mundi HD
+http://srvcliente.me:80/marileide/marileide/224
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/400px-HBO_Mundi.svg.png",HBO Mundi HD*
+http://srvcliente.me:80/marileide/marileide/3108
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/400px-HBO_Mundi.svg.png",HBO Mundi HD+
+http://srvcliente.me:80/marileide/marileide/227
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/400px-HBO_Mundi.svg.png",HBO Mundi HD+*
+http://srvcliente.me:80/marileide/marileide/23161
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png",HBO Pop DIGITAL
+http://srvcliente.me:80/marileide/marileide/223
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png",HBO Pop DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3112
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png",HBO Pop HD
+http://srvcliente.me:80/marileide/marileide/226
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png",HBO Pop HD*
+http://srvcliente.me:80/marileide/marileide/3113
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png",HBO Pop HD+*
+http://srvcliente.me:80/marileide/marileide/23162
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO Signature DIGITAL
+http://srvcliente.me:80/marileide/marileide/211
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO Signature DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3105
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO Signature HD
+http://srvcliente.me:80/marileide/marileide/217
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png",HBO Signature HD*
+http://srvcliente.me:80/marileide/marileide/3106
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme DIGITAL
+http://srvcliente.me:80/marileide/marileide/222
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3109
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme HD
+http://srvcliente.me:80/marileide/marileide/225
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme HD*
+http://srvcliente.me:80/marileide/marileide/3110
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtremee HD*
+http://srvcliente.me:80/marileide/marileide/3111
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="http://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png",HBO+ DIGITAL
+http://srvcliente.me:80/marileide/marileide/210
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png",HBO+ DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3102
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png",HBO+ HD*
+http://srvcliente.me:80/marileide/marileide/3103
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png",HBO+ Plus HD
+http://srvcliente.me:80/marileide/marileide/216
+#EXTINF:-1 group-title="CANAIS | HBO" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png",HBO Plus HD+*
+http://srvcliente.me:80/marileide/marileide/23160
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png",History 1 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3179
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png",History 1 HD
+http://srvcliente.me:80/marileide/marileide/342
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png",History 1 HD*
+http://srvcliente.me:80/marileide/marileide/3180
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png",History 1 HD+
+http://srvcliente.me:80/marileide/marileide/3181
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png",History 1 HD+
+http://srvcliente.me:80/marileide/marileide/347
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png",History 2 DIGITAL
+http://srvcliente.me:80/marileide/marileide/337
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png",History 2 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3182
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png",History 2 HD
+http://srvcliente.me:80/marileide/marileide/343
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png",History 2 HD*
+http://srvcliente.me:80/marileide/marileide/3183
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png",History 2 HD+
+http://srvcliente.me:80/marileide/marileide/348
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png",History DIGITAL
+http://srvcliente.me:80/marileide/marileide/336
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png",Lifetime DIGITAL
+http://srvcliente.me:80/marileide/marileide/371
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png",Lifetime DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3203
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png",Lifetime HD
+http://srvcliente.me:80/marileide/marileide/388
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png",Lifetime HD*
+http://srvcliente.me:80/marileide/marileide/3204
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png",Lifetime HD+
+http://srvcliente.me:80/marileide/marileide/396
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png",MegaPix DIGITAL
+http://srvcliente.me:80/marileide/marileide/266
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png",Megapix DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3136
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png",MegaPix HD
+http://srvcliente.me:80/marileide/marileide/290
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png",Megapix HD*
+http://srvcliente.me:80/marileide/marileide/3137
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/megapix.png",Megapix HD+*
+http://srvcliente.me:80/marileide/marileide/23163
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png",MTV DIGITAL
+http://srvcliente.me:80/marileide/marileide/372
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png",MTV DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3205
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png",MTV HD
+http://srvcliente.me:80/marileide/marileide/389
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png",MTV HD*
+http://srvcliente.me:80/marileide/marileide/3207
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png",MTV HD+
+http://srvcliente.me:80/marileide/marileide/397
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png",MTV Live HD*
+http://srvcliente.me:80/marileide/marileide/3206
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png",Multishow DIGITAL
+http://srvcliente.me:80/marileide/marileide/373
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png",MultiShow DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3208
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png",Multishow HD
+http://srvcliente.me:80/marileide/marileide/390
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png",MultiShow HD*
+http://srvcliente.me:80/marileide/marileide/3209
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png",Multishow HD+
+http://srvcliente.me:80/marileide/marileide/398
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png",MultiShow HD+*
+http://srvcliente.me:80/marileide/marileide/23164
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png",NatGeo DIGITAL
+http://srvcliente.me:80/marileide/marileide/338
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png",NatGeo DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3185
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png",NatGeo HD
+http://srvcliente.me:80/marileide/marileide/344
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png",NatGeo HD*
+http://srvcliente.me:80/marileide/marileide/3186
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png",NatGeo HD+
+http://srvcliente.me:80/marileide/marileide/349
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png",NatGeo HD+*
+http://srvcliente.me:80/marileide/marileide/3184
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png",NatGeo Wild DIGITAL
+http://srvcliente.me:80/marileide/marileide/339
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png",NatGeo Wild DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3187
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png",NatGeo Wild HD
+http://srvcliente.me:80/marileide/marileide/345
+#EXTINF:-1 group-title="CANAIS | CULTURA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png",NatGeo Wild HD*
+http://srvcliente.me:80/marileide/marileide/3188
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png",NatGeo Wild HD+
+http://srvcliente.me:80/marileide/marileide/350
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png",Nickelodeon DIGITAL
+http://srvcliente.me:80/marileide/marileide/239
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png",Nickelodeon DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3072
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png",Nickelodeon HD
+http://srvcliente.me:80/marileide/marileide/249
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png",Nickelodeon HD*
+http://srvcliente.me:80/marileide/marileide/3073
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png",Nickelodeon HD+
+http://srvcliente.me:80/marileide/marileide/255
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png",Nickelodeon HD+*
+http://srvcliente.me:80/marileide/marileide/23166
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",Paramount Channel DIGITAL
+http://srvcliente.me:80/marileide/marileide/267
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",Paramount Channel DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3138
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",Paramount Channel HD
+http://srvcliente.me:80/marileide/marileide/291
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",Paramount Channel HD*
+http://srvcliente.me:80/marileide/marileide/3139
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 1 Clubes DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3010
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 1 Clubes DIGITAL2*
+http://srvcliente.me:80/marileide/marileide/3011
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 1 Clubes HD
+http://srvcliente.me:80/marileide/marileide/133
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 1 Clubes HD*
+http://srvcliente.me:80/marileide/marileide/3012
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 1 Clubes HD+
+http://srvcliente.me:80/marileide/marileide/140
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 1 Clubes HD+*
+http://srvcliente.me:80/marileide/marileide/3013
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/WhwDAaQ.png",PREMIERE 2
+http://srvcliente.me:80/marileide/marileide/134
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 2 DIGITAL
+http://srvcliente.me:80/marileide/marileide/125
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 2 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3014
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 2 HD*
+http://srvcliente.me:80/marileide/marileide/3015
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 2 HD+
+http://srvcliente.me:80/marileide/marileide/141
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 2 HD+*
+http://srvcliente.me:80/marileide/marileide/3016
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 3 DIGITAL
+http://srvcliente.me:80/marileide/marileide/126
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 3 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3017
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 3 HD
+http://srvcliente.me:80/marileide/marileide/135
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 3 HD*
+http://srvcliente.me:80/marileide/marileide/3018
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 3 HD+
+http://srvcliente.me:80/marileide/marileide/142
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 3 HD+*
+http://srvcliente.me:80/marileide/marileide/3019
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 4 DIGITAL
+http://srvcliente.me:80/marileide/marileide/127
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 4 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3020
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 4 HD
+http://srvcliente.me:80/marileide/marileide/136
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 4 HD*
+http://srvcliente.me:80/marileide/marileide/3021
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 4 HD+
+http://srvcliente.me:80/marileide/marileide/143
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 4 HD+*
+http://srvcliente.me:80/marileide/marileide/3022
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 5 DIGITAL
+http://srvcliente.me:80/marileide/marileide/128
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 5 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3023
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 5 HD
+http://srvcliente.me:80/marileide/marileide/137
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 5 HD*
+http://srvcliente.me:80/marileide/marileide/3024
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 5 HD+
+http://srvcliente.me:80/marileide/marileide/144
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 6 DIGITAL
+http://srvcliente.me:80/marileide/marileide/129
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 6 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3025
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 6 HD
+http://srvcliente.me:80/marileide/marileide/138
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 6 HD+
+http://srvcliente.me:80/marileide/marileide/145
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 7 DIGITAL
+http://srvcliente.me:80/marileide/marileide/130
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 7 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3026
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 7 HD
+http://srvcliente.me:80/marileide/marileide/139
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 7 HD+
+http://srvcliente.me:80/marileide/marileide/146
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 8 DIGITAL
+http://srvcliente.me:80/marileide/marileide/131
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 8 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3027
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 9 DIGITAL
+http://srvcliente.me:80/marileide/marileide/132
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/recordnews.png",Record News DIGITAL
+http://srvcliente.me:80/marileide/marileide/352
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/Record_News_%282012%29.png/revision/latest/scale-to-width-down/340?cb=20120904132659",Record News DIGITAL*
+http://srvcliente.me:80/marileide/marileide/2992
+#EXTINF:-1 group-title="CANAIS | NOTÍCIAS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/Record_News_%282012%29.png/revision/latest/scale-to-width-down/340?cb=20120904132659",Record News HD*
+http://srvcliente.me:80/marileide/marileide/2993
+#EXTINF:-1 group-title="CANAIS | FULL HD",Record News HD+*
+http://srvcliente.me:80/marileide/marileide/23167
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png",Record SP DIGITAL*
+http://srvcliente.me:80/marileide/marileide/2989
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png",Record SP HD
+http://srvcliente.me:80/marileide/marileide/80
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png",Record SP HD*
+http://srvcliente.me:80/marileide/marileide/2990
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png",Record SP HD+
+http://srvcliente.me:80/marileide/marileide/780
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png",Record SP HD+
+http://srvcliente.me:80/marileide/marileide/92
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png",SBT HD*
+http://srvcliente.me:80/marileide/marileide/3007
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png",SBT SP HD
+http://srvcliente.me:80/marileide/marileide/104
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png",SBT SP HD+
+http://srvcliente.me:80/marileide/marileide/105
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png",Space DIGITAL
+http://srvcliente.me:80/marileide/marileide/268
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png",Space DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3140
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png",Space HD
+http://srvcliente.me:80/marileide/marileide/292
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png",Space HD*
+http://srvcliente.me:80/marileide/marileide/3141
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png",Space HD+*
+http://srvcliente.me:80/marileide/marileide/23168
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SporTV 1 DIGITAL
+http://srvcliente.me:80/marileide/marileide/156
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SporTV 1 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3048
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SporTV 1 HD
+http://srvcliente.me:80/marileide/marileide/179
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SporTV 1 HD*
+http://srvcliente.me:80/marileide/marileide/3049
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SporTV 1 HD+
+http://srvcliente.me:80/marileide/marileide/188
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SporTV 1 HD+*
+http://srvcliente.me:80/marileide/marileide/3050
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SporTV 2 DIGITAL
+http://srvcliente.me:80/marileide/marileide/157
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SporTV 2 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3051
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SporTV 2 HD
+http://srvcliente.me:80/marileide/marileide/177
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SporTV 2 HD*
+http://srvcliente.me:80/marileide/marileide/3052
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SporTV 2 HD+
+http://srvcliente.me:80/marileide/marileide/186
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png",SporTV 2 HD+*
+http://srvcliente.me:80/marileide/marileide/23169
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SporTV 3 DIGITAL
+http://srvcliente.me:80/marileide/marileide/158
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SporTV 3 DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3053
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SporTV 3 HD
+http://srvcliente.me:80/marileide/marileide/178
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SporTV 3 HD*
+http://srvcliente.me:80/marileide/marileide/3054
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SporTV 3 HD+
+http://srvcliente.me:80/marileide/marileide/187
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png",SporTV 3 HD+*
+http://srvcliente.me:80/marileide/marileide/23170
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png",Studio Universal DIGITAL
+http://srvcliente.me:80/marileide/marileide/269
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png",Studio Universal DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3142
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png",Studio Universal HD
+http://srvcliente.me:80/marileide/marileide/293
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png",Studio Universal HD*
+http://srvcliente.me:80/marileide/marileide/3143
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png",Studio Universal HD+
+http://srvcliente.me:80/marileide/marileide/311
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png",Syfy DIGITAL
+http://srvcliente.me:80/marileide/marileide/270
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png",Syfy DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3144
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png",Syfy HD
+http://srvcliente.me:80/marileide/marileide/294
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png",TBS DIGITAL
+http://srvcliente.me:80/marileide/marileide/271
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png",TBS DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3145
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png",TBS HD
+http://srvcliente.me:80/marileide/marileide/295
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png",TCM DIGITAL
+http://srvcliente.me:80/marileide/marileide/272
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png",TCM DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3146
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",Telecine Action DIGITAL
+http://srvcliente.me:80/marileide/marileide/193
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",Telecine Action DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3084
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",Telecine Action HD
+http://srvcliente.me:80/marileide/marileide/199
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",Telecine Action HD*
+http://srvcliente.me:80/marileide/marileide/3085
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png",Telecine Action HD+*
+http://srvcliente.me:80/marileide/marileide/23171
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png",Telecine Cult DIGITAL
+http://srvcliente.me:80/marileide/marileide/194
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png",Telecine Cult DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3092
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png",Telecine Cult HD
+http://srvcliente.me:80/marileide/marileide/200
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tccult.png",Telecine Cult HD*
+http://srvcliente.me:80/marileide/marileide/3093
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",Telecine Fun DIGITAL
+http://srvcliente.me:80/marileide/marileide/195
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",Telecine Fun DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3087
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",Telecine Fun HD
+http://srvcliente.me:80/marileide/marileide/201
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",Telecine Fun HD*
+http://srvcliente.me:80/marileide/marileide/3088
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png",Telecine Fun HD+*
+http://srvcliente.me:80/marileide/marileide/3089
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",Telecine Pipoca DIGITAL
+http://srvcliente.me:80/marileide/marileide/196
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",Telecine Pipoca DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3081
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",Telecine Pipoca HD
+http://srvcliente.me:80/marileide/marileide/202
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",Telecine Pipoca HD*
+http://srvcliente.me:80/marileide/marileide/3082
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",Telecine Pipoca HD+
+http://srvcliente.me:80/marileide/marileide/206
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png",Telecine Pipoca HD+*
+http://srvcliente.me:80/marileide/marileide/3083
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",Telecine Premium DIGITAL
+http://srvcliente.me:80/marileide/marileide/197
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",Telecine Premium DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3078
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",Telecine Premium HD
+http://srvcliente.me:80/marileide/marileide/203
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",Telecine Premium HD*
+http://srvcliente.me:80/marileide/marileide/3079
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",Telecine Premium HD+
+http://srvcliente.me:80/marileide/marileide/207
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png",Telecine Premium HD+*
+http://srvcliente.me:80/marileide/marileide/3080
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",Telecine Touch DIGITAL
+http://srvcliente.me:80/marileide/marileide/198
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",Telecine Touch DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3090
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",Telecine Touch HD
+http://srvcliente.me:80/marileide/marileide/204
+#EXTINF:-1 group-title="CANAIS | TELECINE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",Telecine Touch HD*
+http://srvcliente.me:80/marileide/marileide/3091
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png",Telecine Touch HD+*
+http://srvcliente.me:80/marileide/marileide/23172
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png",TLC DIGITAL
+http://srvcliente.me:80/marileide/marileide/273
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png",TLC HD
+http://srvcliente.me:80/marileide/marileide/296
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png",TLC HD*
+http://srvcliente.me:80/marileide/marileide/3147
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png",TNT DIGITAL
+http://srvcliente.me:80/marileide/marileide/274
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png",TNT DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3148
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png",TNT HD
+http://srvcliente.me:80/marileide/marileide/297
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png",TNT HD*
+http://srvcliente.me:80/marileide/marileide/3149
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png",TNT HD+
+http://srvcliente.me:80/marileide/marileide/312
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png",TNT HD+*
+http://srvcliente.me:80/marileide/marileide/3150
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT Series DIGITAL
+http://srvcliente.me:80/marileide/marileide/275
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT SERIES DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3151
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT Series HD
+http://srvcliente.me:80/marileide/marileide/298
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT SERIES HD*
+http://srvcliente.me:80/marileide/marileide/3152
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT Series HD+
+http://srvcliente.me:80/marileide/marileide/313
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntseries.png",TNT Series HD+*
+http://srvcliente.me:80/marileide/marileide/23173
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tooncast.png",Tooncast DIGITAL
+http://srvcliente.me:80/marileide/marileide/240
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tooncast.png",Tooncast HD*
+http://srvcliente.me:80/marileide/marileide/3076
+#EXTINF:-1 group-title="CANAIS | TV ABERTA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/cultura.png",TV Cultura DIGITAL
+http://srvcliente.me:80/marileide/marileide/115
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvratimbum.png",TV Ra tim bum DIGITAL
+http://srvcliente.me:80/marileide/marileide/241
+#EXTINF:-1 group-title="CANAIS | INFANTIS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvratimbum.png",TV Ra Tim Bum HD
+http://srvcliente.me:80/marileide/marileide/251
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png",Universal Channel DIGITAL
+http://srvcliente.me:80/marileide/marileide/277
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png",Universal Channel DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3153
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png",Universal Channel HD
+http://srvcliente.me:80/marileide/marileide/300
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png",Universal Channel HD*
+http://srvcliente.me:80/marileide/marileide/3154
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/universal.png",Universal Channel HD+
+http://srvcliente.me:80/marileide/marileide/314
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png",Viva DIGITAL
+http://srvcliente.me:80/marileide/marileide/381
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest/scale-to-width-down/340?cb=20140519221640",Viva DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3213
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png",Viva HD
+http://srvcliente.me:80/marileide/marileide/393
+#EXTINF:-1 group-title="CANAIS | VARIEDADES E MÚSICAS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest/scale-to-width-down/340?cb=20140519221640",Viva HD*
+http://srvcliente.me:80/marileide/marileide/3214
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png",Viva HD+
+http://srvcliente.me:80/marileide/marileide/399
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png",Warner Channel DIGITAL
+http://srvcliente.me:80/marileide/marileide/278
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png",Warner Channel DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3155
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png",Warner Channel HD
+http://srvcliente.me:80/marileide/marileide/301
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png",Warner Channel HD*
+http://srvcliente.me:80/marileide/marileide/3156
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Warner-azul.png",Warner Channel HD+
+http://srvcliente.me:80/marileide/marileide/315
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png",Venus DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3170
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sK5aSGnxWU4/maxresdefault.jpg",XXX Blue Hustler DIGITAL
+http://srvcliente.me:80/marileide/marileide/403
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Brasileirinhas: Agora e a Hora das Poderosas
+http://srvcliente.me:80/marileide/marileide/23623
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Brasileirinhas: Amigas da Minha Irma
+http://srvcliente.me:80/marileide/marileide/23624
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Brasileirinhas: Assim Voce Me Mata
+http://srvcliente.me:80/marileide/marileide/23625
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Brasileirinhas: Babando de Tesao
+http://srvcliente.me:80/marileide/marileide/23626
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Brasileirinhas: Big Mack
+http://srvcliente.me:80/marileide/marileide/23627
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Brasileirinhas: Campea do Anal
+http://srvcliente.me:80/marileide/marileide/23622
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Brasileirinhas: Clube Prive
+http://srvcliente.me:80/marileide/marileide/23628
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Brasileirinhas: Depois dos 40
+http://srvcliente.me:80/marileide/marileide/23629
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Brasileirinhas: Estrelas em Busca do Prazer
+http://srvcliente.me:80/marileide/marileide/23630
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Brasileirinhas: Fazendo Sacanagem
+http://srvcliente.me:80/marileide/marileide/23631
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0W00rmQcuoQ/V0hTbPvYshI/AAAAAAAAGRA/ndhlOQ74IrcO_05znpciaQ5rhAQxU3leACLcB/w1200-h630-p-k-no-nu/brazzerstv-europe-logo.png",XXX Brazzers Europe DIGITAL
+http://srvcliente.me:80/marileide/marileide/404
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Candy DIGITAL
+http://srvcliente.me:80/marileide/marileide/405
+#EXTINF:-1 tvg-logo="https://ci.phncdn.com/pics/sites/000/038/262/avatar1507812625/(m=eidYGe)(mh=rnAMx0EALYL0iBZT)200x200.jpg",XXX CentoXCento DIGITAL
+http://srvcliente.me:80/marileide/marileide/406
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/1/14/Dorcel_TV_%282012-.n.v.%29.png",XXX Dorcel TV DIGITAL
+http://srvcliente.me:80/marileide/marileide/407
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6138-6335-4439-b734-396632366539/Erox_180.png",XXX Eroxx DIGITAL
+http://srvcliente.me:80/marileide/marileide/408
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Grupal (+18)
+http://srvcliente.me:80/marileide/marileide/4259
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Nr8Bqk.png",XXX Passion DIGITAL
+http://srvcliente.me:80/marileide/marileide/409
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/04/Penthouse-Black-logo.jpg",XXX PentHouse Black DIGITAL
+http://srvcliente.me:80/marileide/marileide/410
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/c/c3/Penthouse_Quickies_%282019-.n.v.%29.png",XXX PentHouse Quickies DIGITAL
+http://srvcliente.me:80/marileide/marileide/411
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Pink O DIGITAL
+http://srvcliente.me:80/marileide/marileide/412
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/playboy-logo.png",XXX Playboy DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3173
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/playboy-logo.png",XXX Playboy TV DIGITAL
+http://srvcliente.me:80/marileide/marileide/400
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/playboy-logo.png",XXX Playboy TV HD
+http://srvcliente.me:80/marileide/marileide/420
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Private HD
+http://srvcliente.me:80/marileide/marileide/421
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-837067_redlight-hd-png-transparent-png.png",XXX Redlight DIGITAL
+http://srvcliente.me:80/marileide/marileide/413
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Rusnoch DIGITAL
+http://srvcliente.me:80/marileide/marileide/414
+#EXTINF:-1 tvg-logo="https://www.satworld.ie/images/detailed/1/562_sct_logo.png",XXX SCT DIGITAL
+http://srvcliente.me:80/marileide/marileide/415
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Sext6senso DIGITAL
+http://srvcliente.me:80/marileide/marileide/416
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png",XXX Sextreme DIGITAL
+http://srvcliente.me:80/marileide/marileide/401
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png",XXX Sextreme DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3172
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png",XXX Sextreme HD
+http://srvcliente.me:80/marileide/marileide/422
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png",XXX Sexy Hot DIGITAL
+http://srvcliente.me:80/marileide/marileide/402
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png",XXX Sexy Hot DIGITAL*
+http://srvcliente.me:80/marileide/marileide/3171
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Shalun TV DIGITAL
+http://srvcliente.me:80/marileide/marileide/417
+#EXTINF:-1 group-title="CANAIS | ADULTOS",XXX Teen (+18)
+http://srvcliente.me:80/marileide/marileide/4260
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png",XXX Venus DIGITAL
+http://srvcliente.me:80/marileide/marileide/418
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/vivid-red-hd-frequence-vivid-astra-192-11562989910lalqdivk0w.png",XXX Vivid Red DIGITAL
+http://srvcliente.me:80/marileide/marileide/419
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png",Z EI Plus HD
+http://srvcliente.me:80/marileide/marileide/169
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png",Z EI Plus HD*
+http://srvcliente.me:80/marileide/marileide/3033
+#EXTINF:-1 group-title="CANAIS | ESPN E DAZN" tvg-logo="https://i.ibb.co/PCPbtt4/Ft.png",Z Futebol HD*
+http://srvcliente.me:80/marileide/marileide/23137
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="https://i.ibb.co/P61qDgB/01.png",Z Libertadores HD (Jogo 01)
+http://srvcliente.me:80/marileide/marileide/27156
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="https://i.ibb.co/jgW8KTq/02.png",Z Libertadores HD (Jogo 02)
+http://srvcliente.me:80/marileide/marileide/27157
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="https://i.ibb.co/Bsj9ZYK/03.png",Z Libertadores HD (Jogo 03)
+http://srvcliente.me:80/marileide/marileide/27158
+#EXTINF:-1 group-title="CANAIS | ESPORTE" tvg-logo="https://i.ibb.co/4mTz0N7/04.png",Z Libertadores HD (Jogo 04)
+http://srvcliente.me:80/marileide/marileide/27159
