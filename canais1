@@ -52,7 +52,7 @@ http://pdsrv.io:80/193883/193883/60937
 http://pdsrv.io:80/193883/193883/6140
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/rpV",AXN SD²
 http://pdsrv.io:80/193883/193883/60936
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/ocG",BAND 4K DUAL AUDIO¹
+#EXTINF:-1 group-title="Canais | 4K [FHDR]" tvg-logo="http://z4.vc/ocG",BAND 4K DUAL AUDIO¹
 http://pdsrv.io:80/193883/193883/33747
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/ocG",BAND FHD²
 http://pdsrv.io:80/193883/193883/61314
