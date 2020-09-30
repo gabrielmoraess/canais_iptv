@@ -1,19 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP DIGITAL
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",Globo SP DIGITAL
 http://srvcliente.me:80/marileide/marileide/8
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP DIGITAL*
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",Globo SP DIGITAL*
 http://srvcliente.me:80/marileide/marileide/2954
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP HD
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",Globo SP HD
 http://srvcliente.me:80/marileide/marileide/47
-#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP HD*
+#EXTINF:-1 group-title="CANAIS | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",Globo SP HD*
 http://srvcliente.me:80/marileide/marileide/2955
-#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP HD+
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",Globo SP HD+
 http://srvcliente.me:80/marileide/marileide/48
-#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",0 Globo SP HD+
+#EXTINF:-1 group-title="CANAIS | FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",Globo SP HD+
 http://srvcliente.me:80/marileide/marileide/778
-#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",0 Premiere 1 Clubes DIGITAL
-http://srvcliente.me:80/marileide/marileide/124
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E DIGITAL
 http://srvcliente.me:80/marileide/marileide/257
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E DIGITAL*
@@ -550,6 +548,8 @@ http://srvcliente.me:80/marileide/marileide/3138
 http://srvcliente.me:80/marileide/marileide/291
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",Paramount Channel HD*
 http://srvcliente.me:80/marileide/marileide/3139
+#EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 1 Clubes DIGITAL
+http://srvcliente.me:80/marileide/marileide/124
 #EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 1 Clubes DIGITAL*
 http://srvcliente.me:80/marileide/marileide/3010
 #EXTINF:-1 group-title="CANAIS | PREMIERE" tvg-logo="https://uploaddeimagens.com.br/images/002/002/023/original/Imagem1.png",Premiere 1 Clubes DIGITAL2*
